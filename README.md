@@ -1,5 +1,5 @@
 # Zabbix-Template-Temperatura-Fonte-Delta
-Template Zabbix para monitoramento de temperatura de fontes Delta (UPS Orion) via SNMP, com descoberta automática (LLD) de sensores de Ambiente e Bateria, incluindo itens, triggers e gráficos.
+👉Template Zabbix para monitoramento de temperatura de fontes Delta (UPS Orion) via SNMP, com descoberta automática (LLD) de sensores de Ambiente e Bateria, incluindo itens, triggers e gráficos.
 
 Funcionalidades
 
