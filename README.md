@@ -1,0 +1,1 @@
+# Zabbix-Template-Temperatura-Fonte-Delta
